@@ -1,16 +1,37 @@
-### Hi there 👋
+![Banner](/images/banner.gif)
 
-<!--
-**AlexJustAlex2020/AlexJustAlex2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hi there, I'm currently working towards becoming a Full-Stack Software Developer. 
+
+Stack:
+
+- Ruby
+- Rails
+- Javascript
+- React 
+- Redux
+
+```javascript
+const aboutAlex = {
+pronouns: ["he", "him"],
+job: ['looking for my next opportunity'], 
+languages: ['english', 'spanish', 'HTML', 'CSS', 'Javascript', 'Ruby on Rails', 'React & Redux'],
+challenge: "get dream job before the end of 2021!"
+}
+```
+## Get in touch
+
+👤 **Alex**
+
+- GitHub: [@AlexJustAlex2020 ](https://github.com/AlexJustAlex2020/)
+- Twitter: [@Alexand81099721 ](https://twitter.com/Alexand81099721)
+- LinkedIn: [AlexanderMorales](https://www.linkedin.com/in/alexander-morales-b8539898/)
+- Email: [email](mailto:alexandermorales.n1@gmail.com)
+
+## Mood
+
+Currently looking for my dream job as a software developer!
+
