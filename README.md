@@ -8,11 +8,7 @@ Hi there, I'm currently working towards becoming a Full-Stack Software Developer
 
 Stack:
 
-- Ruby
-- Rails
-- Javascript
-- React 
-- Redux
+Ruby | Rails | Javascript | React | Redux
 
 ```javascript
 const aboutAlex = {
