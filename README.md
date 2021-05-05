@@ -20,7 +20,7 @@ challenge: "get dream job before the end of 2021!"
 
 👤 **Alex**
 
-- GitHub: [@Alex ](https://github.com/alexandermorales-dev/)
+- GitHub: [@alexandermorales-dev](https://github.com/alexandermorales-dev/)
 - Twitter: [@Alexand81099721 ](https://twitter.com/Alexand81099721)
 - LinkedIn: [AlexanderMorales](https://www.linkedin.com/in/alexander-morales-b8539898/)
 - Email: [email](mailto:alexandermorales.n1@gmail.com)
@@ -29,3 +29,10 @@ challenge: "get dream job before the end of 2021!"
 
 Currently looking for my dream job as a software developer!
 
+## Github Stats
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermorales-dev&show_icons=true&theme=dark)
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorales-dev&layout=compact)](https://github.com/alexandermorales-dev/github-readme-stats)
