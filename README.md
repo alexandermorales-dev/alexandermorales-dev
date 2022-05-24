@@ -11,7 +11,6 @@ const aboutAlex = {
 pronouns: ["he", "him"],
 job: ['looking for my next opportunity'], 
 languages: ['english', 'spanish', 'HTML', 'CSS', 'Javascript', 'Ruby on Rails', 'React & Redux'],
-challenge: "get dream job before the end of 2021!"
 }
 ```
 
