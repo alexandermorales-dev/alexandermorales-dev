@@ -10,7 +10,7 @@ Stack: Ruby | Rails | Javascript | React | Redux
 const aboutAlex = {
 pronouns: ["he", "him"],
 job: ['looking for my next opportunity'], 
-languages: ['english', 'spanish', 'HTML', 'CSS', 'Javascript', 'Ruby on Rails', 'React & Redux'],
+languages: ['english', 'spanish', 'HTML', 'CSS', 'Javascript', 'React & Redux', 'Python'],
 }
 ```
 
