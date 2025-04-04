@@ -4,13 +4,13 @@
 
 Hi there, I'm currently working towards becoming a Full-Stack Software Developer. 
 
-Stack: Ruby | Rails | Javascript | React | Redux
+Stack: HTML | CSS | Javascript | React | Python | SQL
 
 ```javascript
 const aboutAlex = {
-pronouns: ["he", "him"],
+pronouns: ["He", "Him"],
 job: ['looking for my next opportunity'], 
-languages: ['english', 'spanish', 'HTML', 'CSS', 'Javascript', 'React & Redux', 'Python'],
+languages: ['English', 'Spanish', 'HTML', 'CSS', 'Javascript', 'React', 'Python', 'SQL']
 }
 ```
 
@@ -31,6 +31,5 @@ Currently looking for my dream job as a software developer!
 👤 **Alex**
 
 - GitHub: [@alexandermorales-dev](https://github.com/alexandermorales-dev/)
-- Twitter: [@Alexand81099721 ](https://twitter.com/Alexand81099721)
 - LinkedIn: [AlexanderMorales](https://www.linkedin.com/in/alexander-morales-b8539898/)
 - Email: [alexandermorales.n1@gmail.com](mailto:alexandermorales.n1@gmail.com)
