@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Morales</h1>
 <h3 align="center">A passionate Full Stack developer from Venezuela</h3>
 
-- 💬 Ask me about **React/TypeScript/Flask**
+- 💬 Ask me about **React/NextJS/Flask**
 
 - 📫 How to reach me **alexandermorales.n1@gmail.com**
 
