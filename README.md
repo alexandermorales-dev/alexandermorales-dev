@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Morales</h1>
 <h3 align="center">A passionate Full Stack developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Flask and SQLAlchemy**
-
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **React/TypeScript/Flask**
 
 - 📫 How to reach me **alexandermorales.n1@gmail.com**
 
